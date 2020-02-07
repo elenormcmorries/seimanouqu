@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oheobohse.frontrunnersboston.org/sitemap.xml
